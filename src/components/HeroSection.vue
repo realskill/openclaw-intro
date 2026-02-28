@@ -22,9 +22,7 @@ const { t } = useLang()
         <a href="https://docs.openclaw.ai" target="_blank" class="btn btn-secondary">
           {{ t('docs') }}
         </a>
-        <a href="https://discord.com/invite/clawd" target="_blank" class="btn btn-secondary">
-          {{ t('community') }}
-        </a>
+
       </div>
     </div>
   </section>

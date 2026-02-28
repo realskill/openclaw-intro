@@ -8,7 +8,7 @@ const messages = {
     heroSubtitle2: '不只是聊天——它能操作文件、浏览网页、控制设备、管理日程。',
     github: '⭐ GitHub',
     docs: '📖 文档',
-    community: '💬 社区',
+
     featuresTitle: '核心能力',
     featuresDesc: 'OpenClaw 不是普通的 AI 聊天工具，而是一个拥有「手」和「脚」的智能助手平台。',
     features: [
@@ -40,7 +40,7 @@ const messages = {
     heroSubtitle2: 'More than chat — it can manage files, browse the web, control devices, and organize your schedule.',
     github: '⭐ GitHub',
     docs: '📖 Docs',
-    community: '💬 Community',
+
     featuresTitle: 'Core Features',
     featuresDesc: 'OpenClaw is not just another AI chatbot — it\'s an intelligent assistant platform with real hands and feet.',
     features: [

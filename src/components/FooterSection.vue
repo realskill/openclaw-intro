@@ -11,7 +11,6 @@ const { t } = useLang()
       <div class="footer-links">
         <a href="https://github.com/nicepkg/openclaw" target="_blank">GitHub</a>
         <a href="https://docs.openclaw.ai" target="_blank">{{ t('footerDocs') }}</a>
-        <a href="https://discord.com/invite/clawd" target="_blank">Discord</a>
         <a href="https://clawhub.com" target="_blank">{{ t('footerSkills') }}</a>
       </div>
       <p class="copyright">
